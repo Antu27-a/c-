@@ -1,0 +1,10 @@
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\bin\Debug\capa_vistas.exe.config
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\bin\Debug\capa_vistas.exe
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\bin\Debug\capa_vistas.pdb
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\sector_vistas.csproj.AssemblyReference.cache
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\capa_vistas.Form1.resources
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\capa_vistas.Properties.Resources.resources
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\sector_vistas.csproj.GenerateResource.cache
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\sector_vistas.csproj.CoreCompileInputs.cache
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\capa_vistas.exe
+C:\Users\antup\Desktop\sistema\SISTEMA\capa_vistas\obj\Debug\capa_vistas.pdb
